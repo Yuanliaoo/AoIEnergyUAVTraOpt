@@ -1,2 +1,3 @@
 # AoIEnergyUAVTraOpt
-UAV trajectory optimization with the average AoI and energy as the bjective functions
+Code for the UAV trajectory optimization problem (P9) in the paper 'Energy and Age Pareto Optimal Trajectories in UAV-assisted Wireless Data Collection' .
+
